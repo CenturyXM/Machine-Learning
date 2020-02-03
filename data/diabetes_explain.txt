@@ -1,0 +1,10 @@
+Pregnancies		怀孕次数
+Glucose			血糖
+BloodPressure		血压
+SkinThickness		皮脂厚度
+Insulin	      		胰岛素
+BMI	                                  BMI身体质量指数
+DiabetesPedigreeFunction	糖尿病遗传函数
+Age	                                  年龄
+Outcome                                    结果         
+
